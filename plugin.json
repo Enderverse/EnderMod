@@ -1,0 +1,10 @@
+{
+	"name": "EnderMod",
+	"description": "Adds various moderation commands",
+	"version": "0.1.0",
+	"author": {
+		"name": "Tyler Richards",
+		"email": "hello@tjrgg.xyz"
+	},
+	"dependencies": {}
+}
