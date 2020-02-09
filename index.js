@@ -14,7 +14,5 @@ module.exports = {
 
 		this.commands.registerCoreDirectory(`${__dirname}/`);
 		this.languages.registerCoreDirectory(`${__dirname}/`);
-
-		this.console.log('EnderMod loaded.');
 	}
 };
